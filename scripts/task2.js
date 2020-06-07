@@ -1,7 +1,7 @@
-var myEmail = "favchiazokam@gmail.com";
+var myEmail = "Favchiazokam@gmail.com";
 var myName = "Favour Igwe";
 var myId = "HNG-01067";
-var myLanguage = "javascript";
+var myLanguage = "Javascript";
 console.log(
   "Hello World, this is " +
     myName +
