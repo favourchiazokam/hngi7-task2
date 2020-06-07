@@ -1,7 +1,7 @@
 const output = () => {
   const info = {
     fullName: "favour igwe",
-    hngid: "HNG-010670",
+    hngid: "HNG-01067",
     email: "favchiazokam@gmail.com",
     language: "javascript",
   };
